@@ -1,6 +1,6 @@
 # Wikipedia Traffic Decline in the AI Era
 
-**TL;DR:** English Wikipedia went from **7.38 billion to 6.92 billion human pageviews/month** between March 2022 and March 2026 — a **−6% site-wide decline** over four years. That aggregate masks a much steeper drop on the articles AI chatbots answer best: a sample of 31 evergreen factual articles lost a **median of −33% over the same period** (−460M views/month in absolute terms). Hardest hit: Music (−82%) and Internet (−82%) — topics where a chatbot answer fully satisfies the query, leaving no reason to click through.
+**TL;DR:** A sample of 31 evergreen Wikipedia articles lost a **median of −33% of their traffic** between March 2022 and March 2026 — the four years since AI chatbots went mainstream. Hardest hit: Music (−82%) and Internet (−82%) — topics where a chatbot answer fully satisfies the query, leaving no reason to click through. The site-wide aggregate (7.38B → 6.92B pageviews/month, −6%) understates the effect because it includes event-driven pages that AI cannot yet replace.
 
 ## Citation
 
