@@ -1,0 +1,300 @@
+{
+  "fetched_at": "2026-04-12T07:19:24.923544+00:00",
+  "source": "Wikimedia Pageviews API (en.wikipedia, all-access, user agent)",
+  "site_wide": {
+    "2022-03": 7375436545,
+    "2022-11": 7474238422,
+    "2023-03": 7783695172,
+    "2024-03": 8082436565,
+    "2025-03": 7740123015,
+    "2026-03": 6916319343
+  },
+  "site_wide_summary": {
+    "baseline_month": "2022-03",
+    "latest_month": "2026-03",
+    "baseline_views": 7375436545,
+    "latest_views": 6916319343,
+    "absolute_change": -459117202,
+    "pct_change": -6.22,
+    "yoy_2025_to_2026": -10.64
+  },
+  "articles": [
+    {
+      "article": "DNA",
+      "views_2022_03": 134889,
+      "views_2026_03": 55734,
+      "absolute_change": -79155,
+      "pct_change": -58.68
+    },
+    {
+      "article": "Climate_change",
+      "views_2022_03": 177723,
+      "views_2026_03": 59617,
+      "absolute_change": -118106,
+      "pct_change": -66.46
+    },
+    {
+      "article": "Black_hole",
+      "views_2022_03": 131257,
+      "views_2026_03": 189488,
+      "absolute_change": 58231,
+      "pct_change": 44.36
+    },
+    {
+      "article": "Vaccine",
+      "views_2022_03": 43969,
+      "views_2026_03": 12339,
+      "absolute_change": -31630,
+      "pct_change": -71.94
+    },
+    {
+      "article": "Evolution",
+      "views_2022_03": 57832,
+      "views_2026_03": 35273,
+      "absolute_change": -22559,
+      "pct_change": -39.01
+    },
+    {
+      "article": "Photosynthesis",
+      "views_2022_03": 74206,
+      "views_2026_03": 65916,
+      "absolute_change": -8290,
+      "pct_change": -11.17
+    },
+    {
+      "article": "Quantum_mechanics",
+      "views_2022_03": 104393,
+      "views_2026_03": 76240,
+      "absolute_change": -28153,
+      "pct_change": -26.97
+    },
+    {
+      "article": "Human_brain",
+      "views_2022_03": 40151,
+      "views_2026_03": 26205,
+      "absolute_change": -13946,
+      "pct_change": -34.73
+    },
+    {
+      "article": "World_War_II",
+      "views_2022_03": 1311206,
+      "views_2026_03": 919254,
+      "absolute_change": -391952,
+      "pct_change": -29.89
+    },
+    {
+      "article": "United_States",
+      "views_2022_03": 1571695,
+      "views_2026_03": 1261307,
+      "absolute_change": -310388,
+      "pct_change": -19.75
+    },
+    {
+      "article": "France",
+      "views_2022_03": 479413,
+      "views_2026_03": 303205,
+      "absolute_change": -176208,
+      "pct_change": -36.75
+    },
+    {
+      "article": "Ancient_Rome",
+      "views_2022_03": 81718,
+      "views_2026_03": 56019,
+      "absolute_change": -25699,
+      "pct_change": -31.45
+    },
+    {
+      "article": "Industrial_Revolution",
+      "views_2022_03": 174175,
+      "views_2026_03": 104575,
+      "absolute_change": -69600,
+      "pct_change": -39.96
+    },
+    {
+      "article": "Cold_War",
+      "views_2022_03": 617462,
+      "views_2026_03": 215662,
+      "absolute_change": -401800,
+      "pct_change": -65.07
+    },
+    {
+      "article": "United_Kingdom",
+      "views_2022_03": 928087,
+      "views_2026_03": 618377,
+      "absolute_change": -309710,
+      "pct_change": -33.37
+    },
+    {
+      "article": "Internet",
+      "views_2022_03": 821414,
+      "views_2026_03": 151658,
+      "absolute_change": -669756,
+      "pct_change": -81.54
+    },
+    {
+      "article": "Smartphone",
+      "views_2022_03": 96605,
+      "views_2026_03": 40584,
+      "absolute_change": -56021,
+      "pct_change": -57.99
+    },
+    {
+      "article": "Python_(programming_language)",
+      "views_2022_03": 291200,
+      "views_2026_03": 127178,
+      "absolute_change": -164022,
+      "pct_change": -56.33
+    },
+    {
+      "article": "Artificial_intelligence",
+      "views_2022_03": 482516,
+      "views_2026_03": 376973,
+      "absolute_change": -105543,
+      "pct_change": -21.87
+    },
+    {
+      "article": "Blockchain",
+      "views_2022_03": 157118,
+      "views_2026_03": 40562,
+      "absolute_change": -116556,
+      "pct_change": -74.18
+    },
+    {
+      "article": "Mathematics",
+      "views_2022_03": 154851,
+      "views_2026_03": 96682,
+      "absolute_change": -58169,
+      "pct_change": -37.56
+    },
+    {
+      "article": "Philosophy",
+      "views_2022_03": 139810,
+      "views_2026_03": 131710,
+      "absolute_change": -8100,
+      "pct_change": -5.79
+    },
+    {
+      "article": "Music",
+      "views_2022_03": 414417,
+      "views_2026_03": 75769,
+      "absolute_change": -338648,
+      "pct_change": -81.72
+    },
+    {
+      "article": "Chess",
+      "views_2022_03": 135607,
+      "views_2026_03": 100015,
+      "absolute_change": -35592,
+      "pct_change": -26.25
+    },
+    {
+      "article": "Olympic_Games",
+      "views_2022_03": 112668,
+      "views_2026_03": 111172,
+      "absolute_change": -1496,
+      "pct_change": -1.33
+    },
+    {
+      "article": "Deaths_in_2023",
+      "views_2022_03": 2,
+      "views_2026_03": 18598,
+      "absolute_change": 18596,
+      "pct_change": 929800.0
+    },
+    {
+      "article": "Wikipedia",
+      "views_2022_03": 1287918,
+      "views_2026_03": 989393,
+      "absolute_change": -298525,
+      "pct_change": -23.18
+    },
+    {
+      "article": "Earth",
+      "views_2022_03": 305762,
+      "views_2026_03": 319676,
+      "absolute_change": 13914,
+      "pct_change": 4.55
+    },
+    {
+      "article": "Water",
+      "views_2022_03": 141213,
+      "views_2026_03": 78141,
+      "absolute_change": -63072,
+      "pct_change": -44.66
+    },
+    {
+      "article": "Jesus",
+      "views_2022_03": 315540,
+      "views_2026_03": 332881,
+      "absolute_change": 17341,
+      "pct_change": 5.5
+    },
+    {
+      "article": "Adolf_Hitler",
+      "views_2022_03": 982435,
+      "views_2026_03": 695499,
+      "absolute_change": -286936,
+      "pct_change": -29.21
+    },
+    {
+      "article": "United_States_Constitution",
+      "views_2022_03": 23954,
+      "views_2026_03": 15476,
+      "absolute_change": -8478,
+      "pct_change": -35.39
+    }
+  ],
+  "sample_summary": {
+    "n_articles": 32,
+    "n_declining": 28,
+    "n_increasing": 4,
+    "total_views_2022_03": 11791206,
+    "total_views_2026_03": 7701178,
+    "aggregate_pct_change": -34.69,
+    "median_pct_change": -33.37,
+    "top_5_declines": [
+      {
+        "article": "Music",
+        "pct_change": -81.72
+      },
+      {
+        "article": "Internet",
+        "pct_change": -81.54
+      },
+      {
+        "article": "Blockchain",
+        "pct_change": -74.18
+      },
+      {
+        "article": "Vaccine",
+        "pct_change": -71.94
+      },
+      {
+        "article": "Climate_change",
+        "pct_change": -66.46
+      }
+    ],
+    "top_5_gains": [
+      {
+        "article": "Deaths_in_2023",
+        "pct_change": 929800.0
+      },
+      {
+        "article": "Black_hole",
+        "pct_change": 44.36
+      },
+      {
+        "article": "Jesus",
+        "pct_change": 5.5
+      },
+      {
+        "article": "Earth",
+        "pct_change": 4.55
+      },
+      {
+        "article": "Olympic_Games",
+        "pct_change": -1.33
+      }
+    ]
+  }
+}
