@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Wikipedia Traffic Decline in the AI Era
+message: If you use this work, please cite it as below.
+type: software
+authors:
+  - family-names: Monperrus
+    given-names: Martin
+repository-code: https://github.com/monperrus/wikipedia-decline-llm
+url: https://github.com/monperrus/wikipedia-decline-llm
+year: 2026
+license: MIT
