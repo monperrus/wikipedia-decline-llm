@@ -192,6 +192,12 @@ Expected runtime: ~30 seconds.
 
 ---
 
+## Feedback
+
+Open an issue on this repo or send an email to martin.monperrus@gnieh.org
+
+---
+
 ## LLM usage disclosure
 
 Parts of this work, in particular code and drafting, were written with the assistance of Claude Code with Claude Sonnet 4.6. All data is not LLM generated but fetched directly from the Wikimedia Pageviews API. The author is responsible for the final content.
