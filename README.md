@@ -1,6 +1,6 @@
 # Wikipedia Traffic Decline in the AI Era
 
-**TL;DR:** A sample of 31 evergreen Wikipedia articles lost a **median of −33% of their traffic** between March 2022 and March 2026 — the four years since AI chatbots went mainstream. Hardest hit: Music (−82%) and Internet (−82%), though the magnitude of those declines may partly reflect traffic anomalies (e.g. reversals of earlier anomalous spikes) rather than AI displacement alone. The site-wide aggregate (7.38B → 6.92B pageviews/month, −6%) understates the effect because it includes event-driven pages that AI cannot yet replace.
+**TL;DR:** A sample of 31 Wikipedia articles lost a **median of −33% of their traffic** between March 2022 and March 2026 — the four years since AI chatbots went mainstream. Hardest hit: Music (−82%) and Internet (−82%), though the magnitude of those declines capture other causes rather than AI displacement alone. The site-wide aggregate (7.38B → 6.92B pageviews/month, −6%) understates the effect because it includes event-driven pages that AI cannot yet replace.
 
 ## Citation
 
