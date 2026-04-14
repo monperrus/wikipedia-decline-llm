@@ -1,6 +1,6 @@
 # Wikipedia Traffic Decline in the AI Era
 
-**TL;DR:** A sample of 31 evergreen Wikipedia articles lost a **median of −33% of their traffic** between March 2022 and March 2026 — the four years since AI chatbots went mainstream. Hardest hit: Music (−82%) and Internet (−82%) — topics where a chatbot answer fully satisfies the query, leaving no reason to click through. The site-wide aggregate (7.38B → 6.92B pageviews/month, −6%) understates the effect because it includes event-driven pages that AI cannot yet replace.
+**TL;DR:** A sample of 31 evergreen Wikipedia articles lost a **median of −33% of their traffic** between March 2022 and March 2026 — the four years since AI chatbots went mainstream. Hardest hit: Music (−82%) and Internet (−82%), though the magnitude of those declines may partly reflect traffic anomalies (e.g. reversals of earlier anomalous spikes) rather than AI displacement alone. The site-wide aggregate (7.38B → 6.92B pageviews/month, −6%) understates the effect because it includes event-driven pages that AI cannot yet replace.
 
 ## Citation
 
@@ -53,7 +53,7 @@ Two endpoints were used:
 
 \* *Deaths in 2023* existed as a redirect in March 2022 with near-zero views; its percentage change is an artifact and excluded from interpretation.
 
-The selection intentionally mixes articles that AI chatbots handle fluently (factual definitions, science, history) with ones where Wikipedia retains unique value (event-driven pages, browsable culture articles).
+The selection intentionally mixes articles that AI chatbots handle fluently (factual definitions, science, history) with ones where Wikipedia retains unique value (browsable culture articles, perennial references).
 
 ### Comparison points
 
@@ -74,7 +74,7 @@ Monthly data was fetched for: March 2022, November 2022 (ChatGPT launch), March 
 | Mar 2025 | 7,740,123,015 | +4.9% |
 | Mar 2026 | 6,916,319,343 | **−6.2%** |
 
-The site-wide decline is **−6.2%** over four years, but the trajectory tells a more nuanced story: traffic grew through 2024 before falling sharply in 2025–2026. The 2023–2024 bump likely reflects curiosity-driven traffic around AI itself, which then reversed as LLM usage normalised.
+The site-wide decline is **−6.2%** over four years, but the trajectory tells a more nuanced story: traffic grew through 2024 before falling sharply in 2025–2026. The reasons for the 2023–2024 bump followed by the sharp 2025–2026 drop are not established by this data alone.
 
 ### Per-article sample (March 2022 vs March 2026)
 
@@ -120,9 +120,9 @@ The site-wide decline is **−6.2%** over four years, but the trajectory tells a
 
 **The site-wide −6.2% figure understates the real displacement.** Wikipedia's page count keeps growing (new current-events pages, annual stub creation), which partially offsets the erosion of traffic on existing articles. The per-article view is more diagnostic.
 
-**The hardest-hit articles are those AI chatbots excel at.** Topics with a canonical factual answer — what is DNA, how does a vaccine work, what caused the Cold War — have lost 60–80% of traffic. These are precisely the queries where an LLM answer is faster and sufficient.
+**The hardest-hit articles are those AI chatbots excel at.** Topics with a canonical factual answer — what is DNA, how does a vaccine work, what caused the Cold War — have lost 60–80% of traffic. These are precisely the queries where an LLM answer is faster and sufficient. Note that the two extreme outliers (Music −82%, Internet −82%) show very sharp single-year drops that may partly reflect traffic anomalies unrelated to AI.
 
-**Event-driven and culturally browsed articles are resilient.** Olympic Games (−1%), Jesus (+5%), Earth (+5%), Black hole (+44% — boosted by Event Horizon Telescope coverage) all held or grew. Wikipedia retains value as a starting point for browsing and as a reference for timely events that LLMs may not cover reliably.
+**Culturally browsed and perennial articles are resilient.** Olympic Games (−1%), Jesus (+5%), Earth (+5%), Black hole (+44%) all held or grew. Wikipedia retains value as a starting point for browsing and as a reference for topics that require depth or recency.
 
 **The impact is back-loaded.** The steepest annual decline occurred between March 2025 and March 2026 (−10.6% year-over-year), consistent with LLM adoption becoming mainstream rather than niche.
 
@@ -189,3 +189,9 @@ The script will print:
 All data is fetched live from the Wikimedia API at runtime. The API is free, requires no authentication, and asks only for a descriptive `User-Agent` header (already set in the script). Rate limiting is respected via small sleeps between requests (~0.3–0.4 s).
 
 Expected runtime: ~30 seconds.
+
+---
+
+## LLM usage disclosure
+
+Parts of this work, in particular code and drafting, were written with the assistance of Claude Code with Claude Sonnet 4.6. All data is not LLM generated but fetched directly from the Wikimedia Pageviews API. The author is responsible for the final content.
