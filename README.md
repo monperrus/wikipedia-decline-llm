@@ -7,7 +7,7 @@ This work has been independently replicated and expanded by Luis Villa, see [Car
 
 ## Citation
 
-Martin Monperrus, "Wikipedia Traffic Decline in the AI Era", GitHub, 2026. https://github.com/monperrus/wikipedia-decline-llm
+Martin Monperrus, "Wikipedia Traffic Decline in the AI Era", 2026. https://github.com/monperrus/wikipedia-decline-llm
 
 ```bibtex
 @misc{monperrus2026wikipedia,
